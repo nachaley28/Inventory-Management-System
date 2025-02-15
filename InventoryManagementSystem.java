@@ -7,6 +7,7 @@ public class Main
 	public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
 	    InventoryManagementSystem ism = new InventoryManagementSystem();
+	    System.out.println("Natalie Jenh Alarcon");
 	    System.out.println("Welcome to Inventory Management System");
 	    boolean con = true;
 	    
